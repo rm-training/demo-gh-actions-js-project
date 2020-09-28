@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --testLocationInResults --json --outputFile=./jest.results.json"
   },
   "keywords": [],
   "author": "",
